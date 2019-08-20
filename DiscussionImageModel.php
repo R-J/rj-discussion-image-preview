@@ -75,14 +75,6 @@ class DiscussionImageModel extends \Gdn_Model {
         /*
         DEBUG: Array
 (
-    [0] => Array
-        (
-            [0] => <p><img src="http://v30.muxi.de/uploads/editor/x1/fake3.jpg" alt="" title="" /><br />
-            [1] => <img src="http://v30.muxi.de/uploads/editor/x1/y1sf9nqdq1hj.jpg" alt="" title="" /><br />
-            [2] => <img src="http://v30.muxi.de/uploads/editor/x1/y1sf9nqdq1hj.jpg" alt="" title="" /><br />
-            [3] => <img src="http://v30.muxi.de/uploads/editor/x1/fake1.jpg" alt="" title="" /><br />
-            [4] => <img src="http://v30.muxi.de/uploads/editor/x1/fake2.jpg" alt="" title="" /></p>
-        )
 
     [1] => Array
         (
