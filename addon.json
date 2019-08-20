@@ -1,0 +1,25 @@
+{
+    "type": "addon",
+    "key": "rj-discussion-image-preview",
+    "name": "Discussion Image Preview",
+    "description": "Shows previews of images from discussions in the recent discussions list. This plugin is inspired by peregrines plugin <a href=\"https://open.vanillaforums.com/addon/1105/indexdiscussionimage\">IndexDiscussionImage</a>",
+    "license": "MIT",
+    "version": "0.0.1",
+    "settingsUrl": "\/settings\/rjdiscussionimagepreview",
+    "pluginUrl": "https:\/\/github.com\/r-j\/rj-discussion-image-preview",
+    "authors": [
+        {
+            "name": "Robin Jurinka",
+            "homepage": "https:\/\/open.vanillaforums.com\/profile\/r_j"
+        }
+    ],
+    "priority": 10,
+    "hasLocale": true,
+    "mobileFriendly": true,
+    "usePopupSettings": true,
+    "requiredTheme": false,
+    "requiredPlugin": false,
+    "allowDisable": true,
+    "hidden": false,
+    "className": "DiscussionImagePreview"
+}
