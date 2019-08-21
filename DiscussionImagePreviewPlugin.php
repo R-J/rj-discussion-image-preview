@@ -192,6 +192,6 @@ return;
 
     public function discussionController_render_before($sender, $args) {
         $model = new DiscussionImageModel($sender->Discussion);
-        $model->getByDiscussion('first');
+        $model->getByDiscussion();
     }
 }
